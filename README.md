@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Caio César Fonseca</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
+- 🔭 He-Net Telecomunicações
+
 - 🌱 I’m currently learning **Python, Postgres, Docker**
 
 - 📫 How to reach me **caiooliveira3652@outlook.com**
