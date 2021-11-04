@@ -44,4 +44,4 @@
   
   ##
   
-  ![Snake animation](https://github.com/Caiocof/caiocof/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Caiocof/caiocof/blob/main/github-contribution-grid-snake.svg)
