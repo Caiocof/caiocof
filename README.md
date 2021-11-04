@@ -39,9 +39,3 @@
   <img align="center" alt="bia-MySQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="bia-Postgres" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
-
-
-  
-  ##
-  
-  ![Snake animation](https://github.com/Caiocof/caiocof/blob/main/github-contribution-grid-snake.svg)
