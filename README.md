@@ -1,6 +1,8 @@
 <h4 align="center">
  
 <h1 align="center">Olá 👋, eu sou o Caio Fonseca</h1>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itfelipe&label=Profile%20views&color=0e75b6&style=flat" alt="caiocof" /> </p>
 
 
 **Sobre mim:**
