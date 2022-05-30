@@ -2,9 +2,9 @@
 
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-# Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Olá eu sou Caio César! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Eu nome é Caio César. eu sou do <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brasil...</b>
+**Sobre mim:**
 
 - 🔭 Analista de Sistma
 - 🌱 Aspirante a Ciêntista de Dados
