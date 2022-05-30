@@ -1,43 +1,35 @@
-<h4 align="center">
- 
-<h1 align="center">Olá 👋, eu sou o Caio Fonseca</h1>
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiocof&label=Profile%20views&color=0e75b6&style=flat" alt="caiocof" /> </p>
+![](https://komarev.com/ghpvc/?username=caiocof&color=red)
 
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-**Sobre mim:**
+# Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+Eu nome é Caio César. eu sou do <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brasil...</b>
 
 - 🔭 Analista de Sistma
 - 🌱 Aspirante a Ciêntista de Dados
 - ❤️ Apaixonado por desenvolvimento Back-End
-- 📫 Meu e-mail **caiooliveira3652@outlook.com**
 
-**Contate-me:**
-<p align="left">
-<a href="https://instagram.com/caiocof21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="caiocof21" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/caiocof/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="caiocof21" height="30" width="40" /></a>
-</p>
+<br>
+<br>
 
-<br />
-<div align="center">
-  <a href="https://github.com/Caiocof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiocof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiocof&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## 🔧 Tecnologias
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=red)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=red)
+![](https://img.shields.io/badge/Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=red)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=red)
+![](https://img.shields.io/badge/Node-informational?style=flat&logo=javascript&logoColor=white&color=red)
 
-<br />
-<br />
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=red)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=Postgresql&logoColor=white&color=red)
+![](https://img.shields.io/badge/Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=red)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=red)
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="bia-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="bia-PHP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="bia-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bia-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bia-Selenium" height="35" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
-  <img align="center" alt="bia-Docker" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="bia-Grafana" height="35" width="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
-  <img align="center" alt="bia-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="bia-MySQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="bia-Postgres" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-</div>
+
+## 📫 Contate-me
+[![Instagram Badge](https://img.shields.io/badge/-@Caiocof21-informational?style=flat&logo=instagram&logoColor=white&color=red&link=https://www.instagram.com/Caiocof21/)](https://www.instagram.com/Caiocof21/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Caio%20Cesar-informational?style=flat&logo=Linkedin&logoColor=white&color=red&link=https://www.linkedin.com/in/Caiocof21/)](https://www.linkedin.com/in/Caiocof21/) 
+[![Outlook Badge](https://img.shields.io/badge/-caiooliveira3652@outlook.com-informational?style=flat&logo=Gmail&logoColor=white&color=red&link=mailto:caiooliveira3652@outlook.com)](mailto:caiooliveira3652@outlook.com)
+
+## &#x1f4c8; GitHub Estatísticas
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=caiocof&show_icons=true&theme=vision-friendly-dark"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocof&langs_count=5&layout=compact&theme=vision-friendly-dark">
