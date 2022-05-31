@@ -16,6 +16,7 @@
 ## 🔧 Tecnologias
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=critical)
+![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=javascript&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=critical)
 
