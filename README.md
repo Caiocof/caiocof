@@ -1,35 +1,54 @@
-![](https://komarev.com/ghpvc/?username=caiocof&color=critical)
-
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-# Olá eu sou Caio César!
-
-**Sobre mim:**
+<h2 align="center">Hi 👋! My name is Caio César and I'm a Back-end Developer.</h2>
 
 - 🔭 Analista de Sistma
 - 🌱 Aspirante a Ciêntista de Dados
 - ❤️ Apaixonado por desenvolvimento Back-End
 
-<br>
-<br>
+###
 
-## 🔧 Tecnologias
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=critical)
-![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=critical)
-![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=critical)
-![](https://img.shields.io/badge/Node-informational?style=flat&logo=javascript&logoColor=white&color=critical)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=critical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&username=caiocof" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=caiocof" height="150" alt="languages graph"  />
+</div>
 
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=critical)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=Postgresql&logoColor=white&color=critical)
-![](https://img.shields.io/badge/Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=critical)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=critical)
+###
 
+<br clear="both">
 
-## 📫 Contate-me
-[![Instagram Badge](https://img.shields.io/badge/-@Caiocof21-informational?style=flat&logo=instagram&logoColor=white&color=critical&link=https://www.instagram.com/Caiocof21/)](https://www.instagram.com/Caiocof21/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Caio%20Cesar-informational?style=flat&logo=Linkedin&logoColor=white&color=critical&link=https://www.linkedin.com/in/Caiocof21/)](https://www.linkedin.com/in/Caiocof21/) 
-[![Outlook Badge](https://img.shields.io/badge/-caiooliveira3652@outlook.com-informational?style=flat&logo=Gmail&logoColor=white&color=critical&link=mailto:caiooliveira3652@outlook.com)](mailto:caiooliveira3652@outlook.com)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+</div>
 
-## &#x1f4c8; GitHub Estatísticas
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=caiocof&show_icons=true&theme=vision-friendly-dark"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocof&langs_count=5&layout=compact&theme=vision-friendly-dark">
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/Caiocof21/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/caiocof/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="caiooliveira3652@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="hackerrank.com/caiooliveira3652" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/caiocof/caiocof/blob/output/snake.svg" alt="Snake animation" />
+
+###
