@@ -1,23 +1,12 @@
 <h2 align="center">Hi 👋! My name is Caio César and I'm a Back-end Developer.</h2>
 
-- 🔭 Analista de Sistma
-- 🌱 Aspirante a Ciêntista de Dados
-- ❤️ Apaixonado por desenvolvimento Back-End
+- 🔭 System Analysts
+- 🌱 Data Science student
+- ❤️ Passionate Back-end developer
 
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&username=caiocof" height="150" alt="stats graph"  />
-  ,<img src="https://github-readme-streak-stats.herokuapp.com/?user=caiocof&theme=vue-dark" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=caiocof" height="180" alt="languages graph" />
-</div>
-
-###
-
-<br clear="both">
-<br clear="both">
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
@@ -29,6 +18,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
 </div>
+
+###
+
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&username=caiocof" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiocof&theme=vue-dark" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=caiocof" height="160" alt="languages graph" />
+
+###
+
+<br clear="both">
 
 ###
 
