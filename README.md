@@ -7,13 +7,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&username=caiocof" height="132" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=caiocof" height="132" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiocof&theme=vue-dark" height="132" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&username=caiocof" height="150" alt="stats graph"  />
+  ,<img src="https://github-readme-streak-stats.herokuapp.com/?user=caiocof&theme=vue-dark" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=caiocof" height="180" alt="languages graph" />
 </div>
 
 ###
 
+<br clear="both">
 <br clear="both">
 
 <div align="left">
@@ -31,11 +32,8 @@
 
 ###
 
-###
-
 <br clear="both">
-
-###
+<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/Caiocof21/" target="_blank">
