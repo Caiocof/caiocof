@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋! My name is Caio César and I'm a Back-end Developer.</h2>
 
 - 🔭 System Analysts
-- 🌱 Data Science student
+- 🌱 MBA Data Science
 - ❤️ Passionate Back-end developer
 
 <br clear="both">
